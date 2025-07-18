@@ -1,6 +1,11 @@
 # CRM Implementation Project - IT Project Management Case Study
 
+![Website Front Page](public/website_front_page.png)
+
 This repository contains a web-based presentation for a CRM Implementation Project, developed as a case study in IT Project Management.
+
+## Live Demo
+Access the live website here: [https://kjydqftg.manus.space](https://kjydqftg.manus.space)
 
 ## Overview
 This presentation covers key aspects of a CRM implementation project, including:
@@ -39,9 +44,6 @@ This presentation covers key aspects of a CRM implementation project, including:
    npm run dev
    ```
    The application will be accessible at `http://localhost:5173` (or another available port).
-
-## Deployment
-The website is deployed permanently and can be accessed at: https://kjydqftg.manus.space
 
 ## Author
 Tony Condone
